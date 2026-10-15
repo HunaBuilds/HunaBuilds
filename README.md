@@ -1,12 +1,17 @@
 <div align="center">
 
+<!-- static purple wave (no animation) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:3b1d6e,100:7c3aed&height=150&section=header" />
+
+<!-- THE ONLY MOVING PART: your name types out. Change the words after "lines=" (use + for spaces, ; between lines) -->
 <a href="https://github.com/HunaBuilds">
-  <img src="./assets/banner.svg" alt="Hunza Shahzadi - Data Science @ FAST NUCES" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=90&lines=Hunza+Shahzadi;Data+Science+%40+FAST+NUCES;Training+models+the+Hiccup+way" alt="Hunza Shahzadi" />
 </a>
 
-<br/>
+<!-- static tagline (does not move, so it never competes with the name) -->
+<p><i>Night Fury energy. Data scientist brain.</i></p>
 
-<!-- Put a Toothless gif in the assets folder and name it toothless.gif -->
+<!-- Put a Toothless gif in a folder called assets and name it toothless.gif -->
 <img src="./assets/toothless.gif" alt="Toothless" width="240" />
 
 </div>
@@ -113,7 +118,7 @@ Got an idea that needs a rider? I'd love to build with you on:
 | **Full-stack builds** | React, Node.js and Supabase apps, from first sketch in Figma to deployed on Vercel |
 | **Low-level projects** | C, C++ and Assembly, where you get to see what the machine is really doing |
 
-**Best way to reach me:** send a message on [LinkedIn](https://www.linkedin.com/in/hunabuilds/) or [Kaggle](https://www.kaggle.com/hunzashahzadi). Tell me what you're building and let's see if our dragons can fly together.
+**Best way to reach me:** send a message on [LinkedIn](https://www.linkedin.com/in/hunabuilds/) or [Kaggle](https://www.kaggle.com/hunzashahzadi), or open an issue on any of my repos. Tell me what you're building and let's see if our dragons can fly together.
 
 ---
 

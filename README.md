@@ -1,18 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:3b1d6e,100:7c3aed&height=170&section=header&animation=fadeIn" />
-
-<!-- THE MOVING NAME: change the words after "lines=" (use + for spaces, ; between lines) -->
 <a href="https://github.com/HunaBuilds">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=90&lines=Hunza+Shahzadi;Data+Science+%40+FAST+NUCES;Training+models+the+Hiccup+way" alt="Hunza Shahzadi" />
+  <img src="./assets/banner.svg" alt="Hunza Shahzadi - Data Science @ FAST NUCES" width="100%" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=4000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=700&height=40&lines=Night+Fury+energy.+Data+scientist+brain.;Every+great+model+starts+with+a+failed+flight;Code.+Train.+Ship.+Repeat." alt="tagline" />
 
 <br/>
 
-<!-- Put a Toothless gif in a folder called assets and name it toothless.gif -->
-<img src="./assets/toothless.gif" alt="Toothless" width="280" />
+<!-- Put a Toothless gif in the assets folder and name it toothless.gif -->
+<img src="./assets/toothless.gif" alt="Toothless" width="240" />
 
 </div>
 
@@ -86,7 +81,7 @@
   <tr>
     <td width="50%">
       <h3>🌀 Recursion Hell</h3>
-      <p>Competitive puzzle platform with a <strong>Stranger Things aesthetic</strong>. Graph-based puzzle game, real-time leaderboard via Supabase Realtime, ember particle effects, and glassmorphism UI.</p>
+      <p>A competitive <strong>puzzle platform</strong> set in a <strong>Stranger Things-inspired</strong> world. Players solve <strong>graph-based puzzles</strong> while a <strong>real-time leaderboard</strong> (Supabase Realtime) updates live. Floating ember particles and a glassmorphism UI give it that Upside Down atmosphere.</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>SVG</code></p>
     </td>
     <td width="50%">
@@ -118,7 +113,7 @@ Got an idea that needs a rider? I'd love to build with you on:
 | **Full-stack builds** | React, Node.js and Supabase apps, from first sketch in Figma to deployed on Vercel |
 | **Low-level projects** | C, C++ and Assembly, where you get to see what the machine is really doing |
 
-**Best way to reach me:** send a message on [LinkedIn](https://www.linkedin.com/in/hunabuilds/) or [Kaggle](https://www.kaggle.com/hunzashahzadi), or open an issue on any of my repos. Tell me what you're building and let's see if our dragons can fly together.
+**Best way to reach me:** send a message on [LinkedIn](https://www.linkedin.com/in/hunabuilds/) or [Kaggle](https://www.kaggle.com/hunzashahzadi). Tell me what you're building and let's see if our dragons can fly together.
 
 ---
 
